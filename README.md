@@ -1,3 +1,8 @@
+  <p align="center">    
+      
+![4400270](https://github.com/user-attachments/assets/2c402a87-47ff-48b9-8b15-609b1437da57)
+
+
 # Domain Name System (DNS)
 <p>The purpose of DNS (Domain Name System) is to make the internet more user-friendly by translating readable domain names such as example.com into IP addresses that computers use to identify each other on the network. This allows users to access websites using easy-to-remember names instead of complex numerical addresses. Essentially, DNS acts as the internet’s phonebook, ensuring that when you type a web address, you are directed to the correct website (reference, cloud flare).</p> 
 
